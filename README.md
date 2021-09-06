@@ -23,7 +23,7 @@ The python libraries I used are:-
 # Bugs and errors handling along with input loop
 I used error and exception handling extensively to eliminate all the bugs and interrupting errors.
 After entering name,throughtout the code you will encounter number of instances of user input.
-User are bound to enter inccorect item code or choices or even entering a charachter instead of a specified number.
+User are bound to enter incorrect item code or choices or even entering a charachter instead of a specified number.
 But there's no need to worry as all those problems are handled carefully and the user will be asked to enter the correct information repeatedly until it matches the criteria.
 
 # Data set
