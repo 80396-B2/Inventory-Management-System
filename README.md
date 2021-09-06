@@ -36,10 +36,12 @@ All the names of drug are real and legit though their attributes are all made-up
 
 
 
+
 # Links
 * Gmail- kartikgparashar786@gmail.com
 * kaggle - https://www.kaggle.com/kartikparashar 
 * linkedin - www.linkedin.com/in/kartik-parashar-90bb1a1a4
+* This Repo- https://github.com/kartikparashar786/Inventory-Management-System
 
   
   
