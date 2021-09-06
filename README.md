@@ -1,5 +1,5 @@
 # Inventory-Management-System
-This a Inventory Management system  created using python 3.9 and its various modules & libraries.
+This an Inventory Management system  created using python 3.9 and its various modules & libraries.
 This system can be preferably used in a pharmaceutical store or a website of a pharmaceutical company(like medplus).
 # Getting Started
 You need to have a python platform on your system.
@@ -23,7 +23,7 @@ The python libraries I used are:-
 # Bugs and errors handling along with input loop
 I used error and exception handling extensively to eliminate all the bugs and interrupting errors.
 After entering name,throughtout the code you will encounter number of instances of user input.
-User are bound to enter incorrect item code or choices or even entering a charachter instead of a specified number.
+User are bound to enter incorrect item code or choices or even entering a character instead of a specified number.
 But there's no need to worry as all those problems are handled carefully and the user will be asked to enter the correct information repeatedly until it matches the criteria.
 
 # Data set
@@ -43,12 +43,12 @@ All the names of drug are real and legit although their attributes are all made-
 # Description/Working
 First things first reading the data with file handling.Then it asks for your name.Once you hit enter a complete list of all the drugs and their corresponding item code is displayed along with its mg.You need to enter the item code of the medicine you need and the quantity.
 The program checks for the required drug and its availability with a time delayer (*you can see the stars looking like a loading bar*)
-  * now if the item is available with sufficient quantity and over the counter permissions then it wil be added to cart and ask to add more items or proceed to check-out options.
+  * now if the item is available with sufficient quantity and over the counter permissions then it will be added to cart and ask to add more items or proceed to check-out options.
   * or if the quantity is less then stated then it will ask to proceed with whatever available then according to user choice it will either add it to cart or ask to add more items or proceed to check-out options.
   * or finally if the item is not sold without prescription then it will reject your request and will ask for new item or checkout subsequently.
 
-You can add as many products as you want in accordancewith the availabilty and then you can proceed to check-out.
-here you will get a bill with all you purchased drug name,it's price,Quantity_Purhased,barcode and expiry.There are some dynamic features in the bill too like:
+You can add as many products as you want in accordance with the availability and then you can proceed to check-out.
+Here you will get a bill with all you purchased drug name,it's price,Quantity_Purhased,barcode and expiry.There are some dynamic features in the bill too like:
   * Unique bill no for future reference.
   * Your name is printed on the bill.
   * Exact date & time is also present on the bill.
@@ -60,8 +60,8 @@ You can also check for the same in the sales.json file.It has a dictionary with 
 
 # Links
 * Gmail- kartikgparashar786@gmail.com
-* kaggle - https://www.kaggle.com/kartikparashar 
-* linkedin - www.linkedin.com/in/kartik-parashar-90bb1a1a4
+* Kaggle - https://www.kaggle.com/kartikparashar 
+* Linkedin - www.linkedin.com/in/kartik-parashar-90bb1a1a4
 * This Repo- https://github.com/kartikparashar786/Inventory-Management-System
 
   
