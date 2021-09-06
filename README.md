@@ -24,18 +24,22 @@ I myself created the data set using dictionary in python then converted it in Js
 It has 30 products and each product has 7 attributes/properties:-
 * Drug name
 * Expiry date
-* price
+* Price
 * Country of origin
 * Over the counter permission
-* bar code no
+* Bar code no
 * Quantity available
 * mg(power)
 * Unique item code
 All the names of drug are real and legit though their attributes are all made-up by me..
+# Description/Working
+
+
+
 # Links
 * Gmail- kartikgparashar786@gmail.com
-* kaggle - 
+* kaggle - https://www.kaggle.com/kartikparashar 
 * linkedin - www.linkedin.com/in/kartik-parashar-90bb1a1a4
-* 
+
   
   
