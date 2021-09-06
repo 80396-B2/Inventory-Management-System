@@ -23,29 +23,32 @@ The python libraries I used are:-
 # Data set
 I myself created the data set using dictionary in python then converted it in Json.
 It has 30 products and each product has 7 attributes/properties:-
-* Drug name
-* Expiry date
-* Price
-* Country of origin
-* Over the counter permission
-* Bar code no
-* Quantity available
-* mg(power)
-* Unique item code
+ * Drug name
+ * Expiry date
+ * Price
+ * Country of origin
+ * Over the counter permission
+ * Bar code no
+ * Quantity available
+ * mg(power)
+ * Unique item code
+
 All the names of drug are real and legit though their attributes are all made-up by me..
 # Description/Working
 First things first reading the data with file handling.Then it asks for your name.Once you hit enter a complete list of all the drugs and their corresponding item code is displayed along with its mg.You need to enter the item code of the medicine you need and the quantity.
 The program checks for the required drug and its availability with a time delayer (*you can see the stars looking like a loading bar*)
   * now if the item is available with sufficient quantity and over the counter permissions then it wil be added to cart and ask to add more items or proceed to check-out options.
-  * if the quantity is less then stated then it will ask to proceed with whatever available then according to user choice it will either add it to cart or ask to add more items or proceed to check-out options.
-  * if the item is not sold without prescription then it will reject your request and will ask for new item or checkout subsequently.
+  * or if the quantity is less then stated then it will ask to proceed with whatever available then according to user choice it will either add it to cart or ask to add more items or proceed to check-out options.
+  * or finally if the item is not sold without prescription then it will reject your request and will ask for new item or checkout subsequently.
+
 You can add as many products as you want in accordancewith the availabilty and then you can proceed to check-out.
 here you will get a bill with all you purchased drug name,it's price,Quantity_Purhased,barcode and expiry.There are some dynamic features in the bill too like:
-  * unique bill no for future reference.
+  * Unique bill no for future reference.
   * Your name is printed on the bill.
-  * the exact date & time is also present on the bill.
- At the very end you can find a grand total of your purchase.
- You can also check for the same in the sales.json file.
+  * Exact date & time is also present on the bill.
+
+At the very end you can find a grand total of your purchase.
+You can also check for the same in the sales.json file.
 
 
 
