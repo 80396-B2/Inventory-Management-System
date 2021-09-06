@@ -52,7 +52,7 @@ Here you will get a bill with all you purchased drug name,it's price,Quantity_Pu
   * Unique bill no for future reference.
   * Your name is printed on the bill.
   * Exact date & time is also present on the bill.
-  * ![Image of Bill](https://octodex.github.com/images/yaktocat.png)
+  ![Image of Bill](https://github.com/kartikparashar786/Inventory-Management-System/blob/main/Screenshot%20(28).png)
 
 At the very end you can find a grand total of your purchase.
 You can also check for the same in the sales.json file.It has a dictionary with the bill no as key and all drugs information in the bill as value.
