@@ -19,5 +19,23 @@ The python libraries I used are:-
 # Special facts
 * All the bill number are completely random and unique.
 * On the bill you can find your name, exact time of check-out and the present date!!
-
+# Data set
+I myself created the data set using dictionary in python then converted it in Json.
+It has 30 products and each product has 7 attributes/properties:-
+* Drug name
+* Expiry date
+* price
+* Country of origin
+* Over the counter permission
+* bar code no
+* Quantity available
+* mg(power)
+* Unique item code
+All the names of drug are real and legit though their attributes are all made-up by me..
+# Links
+* Gmail- kartikgparashar786@gmail.com
+* kaggle - 
+* linkedin - www.linkedin.com/in/kartik-parashar-90bb1a1a4
+* 
+  
   
