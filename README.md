@@ -65,5 +65,5 @@ You can also check for the same in the sales.json file.It has a dictionary with 
 * Linkedin - www.linkedin.com/in/kartik-parashar-90bb1a1a4
 * This Repo- https://github.com/kartikparashar786/Inventory-Management-System
 
-  
+Made by-Kartik Parashar  
   
