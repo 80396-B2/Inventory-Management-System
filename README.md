@@ -20,6 +20,12 @@ The python libraries I used are:-
 * All the bill number are completely random and unique.
 * On the bill you can find your name, exact time of check-out and the present date!!
 * A time delayer for giving a real feel while it checks for the stocks.
+# Bugs and errors handling along with input loop
+I used error and exception handling extensively to eliminate all the bugs and interrupting errors.
+After entering name,throughtout the code you will encounter number of instances of user input.
+User are bound to enter inccorect item code or choices or even entering a charachter instead of a specified number.
+But there's no need to worry as all those problems are handled carefully and the user will be asked to enter the correct information repeatedly until it matches the criteria.
+
 # Data set
 I myself created the data set using dictionary in python then converted it in Json.
 It has 30 products and each product has 7 attributes/properties:-
@@ -33,7 +39,7 @@ It has 30 products and each product has 7 attributes/properties:-
  * mg(power)
  * Unique item code
 
-All the names of drug are real and legit though their attributes are all made-up by me..
+All the names of drug are real and legit although their attributes are all made-up by me..
 # Description/Working
 First things first reading the data with file handling.Then it asks for your name.Once you hit enter a complete list of all the drugs and their corresponding item code is displayed along with its mg.You need to enter the item code of the medicine you need and the quantity.
 The program checks for the required drug and its availability with a time delayer (*you can see the stars looking like a loading bar*)
@@ -48,7 +54,7 @@ here you will get a bill with all you purchased drug name,it's price,Quantity_Pu
   * Exact date & time is also present on the bill.
 
 At the very end you can find a grand total of your purchase.
-You can also check for the same in the sales.json file.
+You can also check for the same in the sales.json file.It has a dictionary with the bill no as key and all drugs information in the bill as value.
 
 
 
