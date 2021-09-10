@@ -4,6 +4,7 @@ This system can be preferably used in a **pharmaceutical store or a website of a
 # Getting Started
 You need to have a python platform on your system.
 * Download all the files in your pc but make sure to keep all of them in the exact same folder else the code will not execute.
+* Open Inventory Management system .ipynb file.
 * Later, hit run and the code will start executing.
 # Modules/Libraries used
 The python libraries I used are:-
