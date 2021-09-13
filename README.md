@@ -64,6 +64,7 @@ You can also check for the same in the sales.json file.It has a dictionary with 
 * Gmail- kartikgparashar786@gmail.com
 * Kaggle - https://www.kaggle.com/kartikparashar 
 * Linkedin - www.linkedin.com/in/kartik-parashar-90bb1a1a4
+* HackerRank- https://www.hackerrank.com/Blu_Dragon
 * This Repo- https://github.com/kartikparashar786/Inventory-Management-System
 
 Made by-Kartik Parashar  
